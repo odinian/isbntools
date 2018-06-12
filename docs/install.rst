@@ -25,7 +25,7 @@ or:
 
 (first you have to download the file!)
 
-You should check if the install was successful, by enter:
+You should check if the install was successful, by entering:
 
 .. code-block:: bash
 
